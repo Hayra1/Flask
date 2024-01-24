@@ -1,0 +1,403 @@
+{
+	"recensioner": [
+		 [
+			  1,
+			  1,
+			  "BokRecensent1",
+			  4,
+			  "Mycket spännande och oväntad twist i slutet! Rekommenderas starkt."
+		 ],
+		 [
+			  2,
+			  1,
+			  "BokLäsare2",
+			  5,
+			  "Kunde inte lägga ifrån mig boken. Fantastiskt bra skriven och håller spänningen genom hela historien."
+		 ],
+		 [
+			  3,
+			  2,
+			  "RomantikÄlskare",
+			  5,
+			  "En underbar romantisk saga. Jag grät och skrattade om vartannat."
+		 ],
+		 [
+			  4,
+			  2,
+			  "BokVän3",
+			  4,
+			  "En rörande berättelse om kärlek och förlåtelse. Bra karaktärsutveckling."
+		 ],
+		 [
+			  5,
+			  3,
+			  "FantasyFan",
+			  5,
+			  "Fantastisk världsbyggnad och karaktärer. En resa in i magins värld."
+		 ],
+		 [
+			  6,
+			  3,
+			  "BokNörd4",
+			  4,
+			  "Fantasy när det är som bäst. Jag älskade varje sida."
+		 ],
+		 [
+			  7,
+			  4,
+			  "ThrillerLäsare",
+			  4,
+			  "Spännande och obehaglig. En riktig bladvändare."
+		 ],
+		 [
+			  8,
+			  4,
+			  "BokSnokare5",
+			  3,
+			  "Boken var bra, men jag hade velat ha mer överraskningar."
+		 ],
+		 [
+			  9,
+			  5,
+			  "FeelGoodFan",
+			  5,
+			  "En feel-good roman som verkligen värmer hjärtat."
+		 ],
+		 [
+			  10,
+			  5,
+			  "BokÄlskare6",
+			  4,
+			  "Vackert skriven. Jag älskade karaktärernas värme."
+		 ],
+		 [
+			  11,
+			  6,
+			  "DeckarÄlskare",
+			  4,
+			  "Intrigerna och mysterierna höll mig fast hela tiden."
+		 ],
+		 [
+			  12,
+			  6,
+			  "BokGuru7",
+			  3,
+			  "Bra deckare, men jag föredrar snabbare tempo."
+		 ],
+		 [
+			  13,
+			  7,
+			  "HistoriaFan",
+			  4,
+			  "En gripande berättelse som tar mig tillbaka i tiden."
+		 ],
+		 [
+			  14,
+			  7,
+			  "BokHistoriker8",
+			  5,
+			  "Fantastiskt skriven med detaljerad historisk bakgrund."
+		 ],
+		 [
+			  15,
+			  8,
+			  "SciFiEntusiast",
+			  3,
+			  "Intressanta framtidsscenarier, men jag hade önskat mer djup."
+		 ],
+		 [
+			  16,
+			  8,
+			  "BokRymdFarare9",
+			  4,
+			  "Spännande science fiction med tankeväckande teman."
+		 ],
+		 [
+			  17,
+			  9,
+			  "ÄventyrsSökare",
+			  5,
+			  "En riktig äventyrsresa. Jag kunde inte sluta läsa."
+		 ],
+		 [
+			  18,
+			  9,
+			  "BokUtforskare10",
+			  4,
+			  "Bra balans mellan spänning och utforskning."
+		 ],
+		 [
+			  19,
+			  1,
+			  "BokRecensent1",
+			  4,
+			  "Mycket spännande och oväntad twist i slutet! Rekommenderas starkt."
+		 ],
+		 [
+			  20,
+			  1,
+			  "BokLäsare2",
+			  5,
+			  "Kunde inte lägga ifrån mig boken. Fantastiskt bra skriven och håller spänningen genom hela historien."
+		 ],
+		 [
+			  21,
+			  2,
+			  "RomantikÄlskare",
+			  5,
+			  "En underbar romantisk saga. Jag grät och skrattade om vartannat."
+		 ],
+		 [
+			  22,
+			  2,
+			  "BokVän3",
+			  4,
+			  "En rörande berättelse om kärlek och förlåtelse. Bra karaktärsutveckling."
+		 ],
+		 [
+			  23,
+			  3,
+			  "FantasyFan",
+			  5,
+			  "Fantastisk världsbyggnad och karaktärer. En resa in i magins värld."
+		 ],
+		 [
+			  24,
+			  3,
+			  "BokNörd4",
+			  4,
+			  "Fantasy när det är som bäst. Jag älskade varje sida."
+		 ],
+		 [
+			  25,
+			  4,
+			  "ThrillerLäsare",
+			  4,
+			  "Spännande och obehaglig. En riktig bladvändare."
+		 ],
+		 [
+			  26,
+			  4,
+			  "BokSnokare5",
+			  3,
+			  "Boken var bra, men jag hade velat ha mer överraskningar."
+		 ],
+		 [
+			  27,
+			  5,
+			  "FeelGoodFan",
+			  5,
+			  "En feel-good roman som verkligen värmer hjärtat."
+		 ],
+		 [
+			  28,
+			  5,
+			  "BokÄlskare6",
+			  4,
+			  "Vackert skriven. Jag älskade karaktärernas värme."
+		 ],
+		 [
+			  29,
+			  6,
+			  "DeckarÄlskare",
+			  4,
+			  "Intrigerna och mysterierna höll mig fast hela tiden."
+		 ],
+		 [
+			  30,
+			  6,
+			  "BokGuru7",
+			  3,
+			  "Bra deckare, men jag föredrar snabbare tempo."
+		 ],
+		 [
+			  31,
+			  7,
+			  "HistoriaFan",
+			  4,
+			  "En gripande berättelse som tar mig tillbaka i tiden."
+		 ],
+		 [
+			  32,
+			  7,
+			  "BokHistoriker8",
+			  5,
+			  "Fantastiskt skriven med detaljerad historisk bakgrund."
+		 ],
+		 [
+			  33,
+			  8,
+			  "SciFiEntusiast",
+			  3,
+			  "Intressanta framtidsscenarier, men jag hade önskat mer djup."
+		 ],
+		 [
+			  34,
+			  8,
+			  "BokRymdFarare9",
+			  4,
+			  "Spännande science fiction med tankeväckande teman."
+		 ],
+		 [
+			  35,
+			  9,
+			  "ÄventyrsSökare",
+			  5,
+			  "En riktig äventyrsresa. Jag kunde inte sluta läsa."
+		 ],
+		 [
+			  36,
+			  9,
+			  "BokUtforskare10",
+			  4,
+			  "Bra balans mellan spänning och utforskning."
+		 ],
+		 [
+			  37,
+			  1,
+			  "BokRecensent1",
+			  4,
+			  "Mycket spännande och oväntad twist i slutet! Rekommenderas starkt."
+		 ],
+		 [
+			  38,
+			  1,
+			  "BokLäsare2",
+			  5,
+			  "Kunde inte lägga ifrån mig boken. Fantastiskt bra skriven och håller spänningen genom hela historien."
+		 ],
+		 [
+			  39,
+			  2,
+			  "RomantikÄlskare",
+			  5,
+			  "En underbar romantisk saga. Jag grät och skrattade om vartannat."
+		 ],
+		 [
+			  40,
+			  2,
+			  "BokVän3",
+			  4,
+			  "En rörande berättelse om kärlek och förlåtelse. Bra karaktärsutveckling."
+		 ],
+		 [
+			  41,
+			  3,
+			  "FantasyFan",
+			  5,
+			  "Fantastisk världsbyggnad och karaktärer. En resa in i magins värld."
+		 ],
+		 [
+			  42,
+			  3,
+			  "BokNörd4",
+			  4,
+			  "Fantasy när det är som bäst. Jag älskade varje sida."
+		 ],
+		 [
+			  43,
+			  4,
+			  "ThrillerLäsare",
+			  4,
+			  "Spännande och obehaglig. En riktig bladvändare."
+		 ],
+		 [
+			  44,
+			  4,
+			  "BokSnokare5",
+			  3,
+			  "Boken var bra, men jag hade velat ha mer överraskningar."
+		 ],
+		 [
+			  45,
+			  5,
+			  "FeelGoodFan",
+			  5,
+			  "En feel-good roman som verkligen värmer hjärtat."
+		 ],
+		 [
+			  46,
+			  5,
+			  "BokÄlskare6",
+			  4,
+			  "Vackert skriven. Jag älskade karaktärernas värme."
+		 ],
+		 [
+			  47,
+			  6,
+			  "DeckarÄlskare",
+			  4,
+			  "Intrigerna och mysterierna höll mig fast hela tiden."
+		 ],
+		 [
+			  48,
+			  6,
+			  "BokGuru7",
+			  3,
+			  "Bra deckare, men jag föredrar snabbare tempo."
+		 ],
+		 [
+			  49,
+			  7,
+			  "HistoriaFan",
+			  4,
+			  "En gripande berättelse som tar mig tillbaka i tiden."
+		 ],
+		 [
+			  50,
+			  7,
+			  "BokHistoriker8",
+			  5,
+			  "Fantastiskt skriven med detaljerad historisk bakgrund."
+		 ],
+		 [
+			  51,
+			  8,
+			  "SciFiEntusiast",
+			  3,
+			  "Intressanta framtidsscenarier, men jag hade önskat mer djup."
+		 ],
+		 [
+			  52,
+			  8,
+			  "BokRymdFarare9",
+			  4,
+			  "Spännande science fiction med tankeväckande teman."
+		 ],
+		 [
+			  53,
+			  9,
+			  "ÄventyrsSökare",
+			  5,
+			  "En riktig äventyrsresa. Jag kunde inte sluta läsa."
+		 ],
+		 [
+			  54,
+			  9,
+			  "BokUtforskare10",
+			  4,
+			  "Bra balans mellan spänning och utforskning."
+		 ],
+		 [
+			  55,
+			  10,
+			  "PoesiÄlskare",
+			  5,
+			  "En vacker och poetisk berättelse om naturen och livet."
+		 ],
+		 [
+			  56,
+			  10,
+			  "BokPoet11",
+			  4,
+			  "Jag älskade varje ord. En sann konstnä"
+		 ],
+		 [
+			  57,
+			  1,
+			  "JohnDoe",
+			  4.5,
+			  "A great book!"
+		 ]
+	]
+}

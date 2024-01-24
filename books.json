@@ -1,0 +1,116 @@
+{
+	"books": [
+		 [
+			  0,
+			  "Kärlekens labyrint",
+			  "Anna Lundqvist",
+			  "En romantisk komedi om förväxlingar och kärleksintriger",
+			  "Romantisk Komedi"
+		 ],
+		 [
+			  1,
+			  "Mörkrets hemlighet",
+			  "Anna Eriksson",
+			  "En spännande mysteriethriller",
+			  "Mysteri"
+		 ],
+		 [
+			  2,
+			  "Hjärtats slag",
+			  "Johan Persson",
+			  "En romantisk saga om kärlek och förlåtelse",
+			  "Romantik"
+		 ],
+		 [
+			  3,
+			  "Stjärnornas dans",
+			  "Emma Andersson",
+			  "En fantasyepos med magiska varelser och äventyr",
+			  "Fantasy"
+		 ],
+		 [
+			  4,
+			  "Skuggornas väg",
+			  "David Lundqvist",
+			  "En psykologisk thriller som utmanar verkligheten",
+			  "Thriller"
+		 ],
+		 [
+			  5,
+			  "Älskade stjärna",
+			  "Maria Karlsson",
+			  "En feel-good roman om familj och vänskap",
+			  "Feel-Good"
+		 ],
+		 [
+			  6,
+			  "Dödligt arv",
+			  "Anders Nilsson",
+			  "En kriminalroman där gåtorna avlöser varandra",
+			  "Kriminal"
+		 ],
+		 [
+			  7,
+			  "Soluppgångens land",
+			  "Sofia Larsson",
+			  "En historisk roman om kärlek och överlevnad",
+			  "Historisk"
+		 ],
+		 [
+			  8,
+			  "Eldens gåva",
+			  "Johanna Bergström",
+			  "En science fiction-berättelse om framtidens teknologi",
+			  "Science Fiction"
+		 ],
+		 [
+			  9,
+			  "Havets hemlighet",
+			  "Erik Karlsson",
+			  "En äventyrsroman med havets djup som bakgrund",
+			  "Äventyr"
+		 ],
+		 [
+			  10,
+			  "Sång av natten",
+			  "Linnea Andersson",
+			  "En poetisk berättelse om naturens skönhet och människans själ",
+			  "Poesi"
+		 ],
+		 [
+			  11,
+			  "Det sista uppdraget",
+			  "Andreas Persson",
+			  "En actionfylld thriller med internationell intrig",
+			  "Action"
+		 ],
+		 [
+			  12,
+			  "Drömmarnas värld",
+			  "Maria Johansson",
+			  "En magisk berättelse där drömmar blir verklighet",
+			  "Magi"
+		 ],
+		 [
+			  13,
+			  "Dödligt svek",
+			  "Eva Berg",
+			  "En spänningsroman om lögner och bedrägeri",
+			  "Spänning"
+		 ],
+		 [
+			  14,
+			  "Ödets hjul",
+			  "Oscar Magnusson",
+			  "En episk fantasy med strider om makt och överlevnad",
+			  "Fantasy"
+		 ],
+		 [
+			  15,
+			  "Sample Book",
+			  "Sample Author",
+			  "A sample summary",
+			  "Fiction"
+		 ]
+	]
+}
